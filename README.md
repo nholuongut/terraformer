@@ -21,11 +21,6 @@
 A CLI tool that generates `tf`/`json` and `tfstate` files based on existing infrastructure
 (reverse Terraform).
 
-*   Disclaimer: This is not an official Google product
-*   Created by: Waze SRE
-
-![Waze SRE logo](assets/waze-sre-logo.png)
-
 # Table of Contents
 - [Demo GCP](#demo-gcp)
 - [Capabilities](#capabilities)
